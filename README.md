@@ -19,7 +19,7 @@ Here are some of the projects you'll find in my repository:
 3. **[Project Name]**: Brief description.
 
 ## Get in Touch
-- 📫 How to reach me: [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/username).
+- 📫 How to reach me: [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/PrettySkye).
 - 😄 Pronouns: She/her.
 
 ## Current Focus
