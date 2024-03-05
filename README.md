@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 ## Projects
 Here are some of the projects you'll find in my repository:
 1. **Minefortress**: RTS Style Mod For Minecraft.
-2. **[Project Name]**: Brief description.
+2. **MC-Legacy**: The Old Launcher Re-Imanged Having Built In Mods/Modpack Support From [Modrinth](https://modrinth.com)
 3. **[Project Name]**: Brief description.
 
 ## Get in Touch
