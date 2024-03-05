@@ -7,10 +7,10 @@
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 
 ## About Me
-- I'm a coder passionate about creating impactful software solutions.
-- Video game development is my playground where I blend creativity and technology.
-- As a website designer, I strive to craft visually stunning and user-friendly interfaces.
-- I'm also an enthusiastic advocate for Autism and ADHD (Au-DHD) awareness and acceptance.
+- 👩‍💻 I'm a coder passionate about creating impactful software solutions.
+- 🎮 Video Game Dev: Crafting immersive experiences with a touch of innovation.
+- 🌐 Website Design: Creating visually stunning and user-friendly interfaces..
+- 🧠 Advocacy: As someone with ADHD and Autism, I'm dedicated to promoting understanding and acceptance
 
 ## Projects
 Here are some of the projects you'll find in my repository:
