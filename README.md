@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 
 ## Projects
 Here are some of the projects you'll find in my repository:
-1. **MC-Legacy**: The Old Launcher Re-Imagined with Built-In Mods/Modpack Support.
-2. **Minefortress**: RTS Style Mod For Minecraft.
-3. **[Project Name]**: Brief description.
+1. **SkyeNet** a Minecraft Server that just has a bunch of things i like from other servers! Surival! Hardcore! MiniGames!
 
 ## Get in Touch
 - 📫 [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/PrettySkye).
