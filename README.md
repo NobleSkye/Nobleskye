@@ -36,7 +36,7 @@ Here are some of the projects you'll find in my repository:
 - Special thanks to all open-source contributors and communities for their continuous support and inspiration.
 
 ## License
-- All projects are licensed under [All Rights Reserve Open Source](https://en.wikipedia.org/wiki/All_rights_reserved) unless otherwise specified.
+- All projects are licensed under [All Rights Reserve Open Source](https://github.com/NobleSkye/Nobleskye/blob/main/license.md) unless otherwise specified.
   - You are granted a limited, personal, non-exclusive license to use the software.
   - For inquiries about licensing or permissions for specific uses, please contact me directly.
 
