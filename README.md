@@ -7,14 +7,12 @@
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 
 ## About Me
-- 👩‍💻 Passionate about creating impactful software solutions.
-- 🎮 Crafting immersive experiences with a touch of innovation.
-- 🌐 Creating visually stunning and user-friendly interfaces.
-- 🧠 Dedicated to promoting understanding and acceptance of ADHD and Autism.
+- 🏆 CompTIA ITF+ Certifed
+- 🖥️ Studying for CompTIA Tech+ (WIP)
 
 ## Projects
 Here are some of the projects you'll find in my repository:
-1. **SkyeNet** a Minecraft Server that just has a bunch of things i like from other servers! Surival! Hardcore! MiniGames!
+1. **SkyeNet** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
 
 ## Get in Touch
 - 📫 [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/PrettySkye).
@@ -38,7 +36,7 @@ Here are some of the projects you'll find in my repository:
 - Special thanks to all open-source contributors and communities for their continuous support and inspiration.
 
 ## License
-- All projects are licensed under [All Rights Reserved](https://en.wikipedia.org/wiki/All_rights_reserved), unless otherwise specified.
+- All projects are licensed under [All Rights Reserve Open Source](https://en.wikipedia.org/wiki/All_rights_reserved) unless otherwise specified.
   - You are granted a limited, personal, non-exclusive license to use the software.
   - For inquiries about licensing or permissions for specific uses, please contact me directly.
 
