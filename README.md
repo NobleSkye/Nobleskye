@@ -5,11 +5,14 @@
 ## 🏳️‍⚧️ She/Her 🏳️‍⚧️
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
-![image](https://github.com/user-attachments/assets/02bd5a2e-b09a-41bb-a844-c94bf12f890f)ww
 ## About Me
-- 🏆 CompTIA ITF+ Certifed
-
+- 🏆 [CompTIA ITF+ Certifed](https://www.comptia.org/certifications/it-fundamentals)
 - 🖥️ Studying for CompTIA Tech+ (WIP)
+
+
+![image](https://github.com/user-attachments/assets/fb0d6421-f0fd-4e03-a6af-f9cf4979da77)
+
+
 
 ## Projects
 Here are some of the projects you'll find in my repository:
