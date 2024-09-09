@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 ## About Me
 - 🏆 [CompTIA ITF+ Certifed](https://www.comptia.org/certifications/it-fundamentals)
 - 🖥️ Studying for CompTIA Tech+ (WIP)
-
+- 🖥️ Studying for CompTIA Security+ (WIP)
 
 ![image](https://github.com/user-attachments/assets/fb0d6421-f0fd-4e03-a6af-f9cf4979da77)
 
