@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 
 ## Projects
 Here are some of the projects you'll find in my repository:
-1. **SkyeNet** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
+1. **[SkyeNet](https://www.skye.host)** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
 2. **LxPaint** A Microsoft Paint style image editor that is written in two versions [PyGame](https://www.pygame.org) & [GoLang](https://go.dev) 
    
 ## Get in Touch
