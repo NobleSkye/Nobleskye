@@ -22,4 +22,4 @@ In no event and under no legal theory, whether in tort (including negligence), c
 This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
 
 ## 6. Governing Law
-This License shall be governed by and construed in accordance with the laws of [Your Country or State], excluding its conflicts of law principles.
+This License shall be governed by and construed in accordance with the laws of USA, Nevada excluding its conflicts of law principles.
