@@ -1,5 +1,6 @@
 <a href="https://app.daily.dev/skylar"><img src="https://api.daily.dev/devcards/v2/MGqLkeFpdnZEb4VOvCmE2.png?r=nc6&type=default" width="356" alt="Skylar's Dev Card"/></a>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NobleSkye&count_private=true&show_icons=true&theme=vue)
 # NobleSkye
 
 ## 🏳️‍⚧️ She/Her 🏳️‍⚧️
