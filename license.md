@@ -1,4 +1,4 @@
-# NobleSkye Non-Redistributable License (NSNRL)
+# Non-Redistributable License (NRL)
 
 Version 1.0, [09/30/2024]
 
