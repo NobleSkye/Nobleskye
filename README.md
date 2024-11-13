@@ -1,8 +1,10 @@
 <a href="https://app.daily.dev/skylar"><img src="https://api.daily.dev/devcards/v2/MGqLkeFpdnZEb4VOvCmE2.png?r=nc6&type=default" width="356" alt="Skylar's Dev Card"/></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nobleskye&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NobleSkye&count_private=true&show_icons=true&theme=vue)
+aaa
+![GitHub
 # NobleSkye
-
+https://github-profile-trophy.vercel.app/?username=nobleskye&theme=dracula
 ## 🏳️‍⚧️ She/Her 🏳️‍⚧️
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
