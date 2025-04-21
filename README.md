@@ -1,5 +1,4 @@
 # NobleSkye
-https://github-profile-trophy.vercel.app/?username=nobleskye&theme=dracula
 ## 🏳️‍⚧️ She/Her 🏳️‍⚧️
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
@@ -8,10 +7,10 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 - 🖥️ [Studying for CompTIA Tech+](https://www.comptia.org/certifications/tech) (WIP)
 - 🖥️ [Studying for CompTIA Security+](https://www.comptia.org/certifications/security)
 
-
-
 <img src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" alt="" data-canonical-src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" width="128" height="128" />
 <img src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" alt="" data-canonical-src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" width="128" height="128" />
+
+
 
 ## Projects
 Here are some of the projects you'll find in my repository:
@@ -27,6 +26,7 @@ Here are some of the projects you'll find in my repository:
 
 ## Acknowledgements
 - Special thanks to all open-source contributors and communities for their continuous support and inspiration.
+
 
 ## License
 - All projects are licensed under [Non-Redistributable License (NRL)](https://github.com/NobleSkye/Nobleskye/blob/main/license.md) unless otherwise specified.
