@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 - 🖥️ Studying for CompTIA Tech+ (WIP)
 - 🖥️ Studying for CompTIA Security+ (GOTTEN!!!!!)
 
-![CompTIA IFT+ Cert](https://github.com/user-attachments/assets/fb0d6421-f0fd-4e03-a6af-f9cf4979da77)
-![SecurityPlus Logo Certified CE](https://github.com/user-attachments/assets/a10214dd-690e-474d-a948-5a1b1e9969d6)
+![CompTIA IFT+ Cert]()
 
-
+<img src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" alt="" data-canonical-src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" width="128" height="128" />
+<img src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" alt="" data-canonical-src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" width="128" height="128" />
 
 ## Projects
 Here are some of the projects you'll find in my repository:
