@@ -8,8 +8,8 @@ https://github-profile-trophy.vercel.app/?username=nobleskye&theme=dracula
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 ## About Me
 - 🏆 [CompTIA ITF+ Certifed](https://www.comptia.org/certifications/it-fundamentals)
-- 🖥️ Studying for CompTIA Tech+ (WIP)
-- 🖥️ Studying for CompTIA Security+ (GOTTEN!!!!!)
+- 🖥️ [Studying for CompTIA Tech+](https://www.comptia.org/certifications/tech) (WIP)
+- 🖥️ [Studying for CompTIA Security+](https://www.comptia.org/certifications/security)
 
 ![CompTIA IFT+ Cert]()
 
