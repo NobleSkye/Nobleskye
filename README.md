@@ -11,15 +11,15 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 - 🖥️ [Studying for CompTIA Tech+](https://www.comptia.org/certifications/tech) (WIP)
 - 🖥️ [Studying for CompTIA Security+](https://www.comptia.org/certifications/security)
 
-![CompTIA IFT+ Cert]()
+
 
 <img src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" alt="" data-canonical-src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" width="128" height="128" />
 <img src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" alt="" data-canonical-src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" width="128" height="128" />
 
 ## Projects
 Here are some of the projects you'll find in my repository:
-1. **[SkyeNet](https://www.skye.host)** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
-2. **LxPaint** A Microsoft Paint style image editor that is written in two versions [PyGame](https://www.pygame.org) & [GoLang](https://go.dev) 
+1. **[SkyeNetwork](https://www.skyenet.co.in)** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
+2. **[Blahaj.bio](https://blahaj.bio/new)** A Bio creation website that lets you make your own bio page, using github actions to make new pages edit your page using markdown
    
 ## Get in Touch
 - 📫 [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/PrettySkye).
