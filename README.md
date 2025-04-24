@@ -4,11 +4,13 @@
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 ## About Me
 - 🏆 [CompTIA ITF+ Certifed](https://www.comptia.org/certifications/it-fundamentals)
-- 🖥️ [Studying for CompTIA Tech+](https://www.comptia.org/certifications/tech) (WIP)
+- 🖥️ [Studying for CompTIA Tech+](https://www.comptia.org/certifications/tech)
 - 🖥️ [Studying for CompTIA Security+](https://www.comptia.org/certifications/security)
 
 <img src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" alt="" data-canonical-src="https://github.com/user-attachments/assets/f549ccd4-0350-4531-82a3-0182e5ed0d0d" width="128" height="128" />
 <img src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" alt="" data-canonical-src="https://github.com/user-attachments/assets/d688d1b6-94d3-4041-a4ca-47e50afd5d65" width="128" height="128" />
+<img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logotechplus.svg?sfvrsn=17548663_2" alt="" data-canonical-src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logotechplus.svg?sfvrsn=17548663_2" width="128" height="128" />
+
 
 
 
