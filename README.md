@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and contributions
 Here are some of the projects you'll find in my repository:
 1. **[SkyeNetwork](https://www.skyenet.co.in)** a Minecraft Server that just has a bunch of things I like from other servers! Survival! Hardcore! MiniGames!
 2. **[Blahaj.bio](https://blahaj.bio/new)** A Bio creation website that lets you make your own bio page, using github actions to make new pages edit your page using markdown
-3. **[Pronouns.site](https;//pronouns.site/pronouns)** Simple website that has all pronouns listed and how to use them. Embeds show simple usage on platforms like discord
+3. **[Pronouns.site](https://pronouns.site/pronouns)** Simple website that has all pronouns listed and how to use them. Embeds show simple usage on platforms like discord
    
 ## Get in Touch
 - 📫 [Email](mailto:Rainblueskylar@gmail.com) or [Discord](https://discord.com/PrettySkye).
