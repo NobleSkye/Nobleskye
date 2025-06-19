@@ -30,7 +30,7 @@ Here are some of the projects you'll find in my repository:
 
 
 ## License
-- All projects are licensed under [Non-Redistributable License (NRL)](https://github.com/NobleSkye/Nobleskye/blob/main/license.md) unless otherwise specified.
+- All projects are licensed under (GNU LESSER GENERAL PUBLIC LICENSE)](https://github.com/NobleSkye/Nobleskye/blob/main/license.md) unless otherwise specified.
   - You are granted a limited, personal, non-exclusive license to use the software. 
 
   - For inquiries about licensing or permissions for specific uses, please [contact me directly](https://nobleskye.dev/#contact).
